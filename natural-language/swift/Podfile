@@ -10,6 +10,8 @@ target 'NaturalLanguage' do
   pod 'AuthLibrary', :git => 'https://github.com/google/auth-library-swift.git'
   pod 'MaterialComponents'
   pod 'Firebase/Messaging'
+  pod 'source', :git => 'https://github.com/CocoaPods/Specs.git'
+
 
 end
 
